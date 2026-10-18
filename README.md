@@ -6,7 +6,7 @@
 ╰──────────────────────────────────────────────────────────────╯
 -->
 
-<div align="center">
+<div align="left">
 
 <!-- ═══════════════ HERO · MIDNIGHT ROSE ═══════════════ -->
 
@@ -28,13 +28,13 @@
 
 <br><br>
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=followers">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=THE%20COMMUNITY&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=211728&color=EF93C4" alt="GitHub followers">
+<a href="https://github.com/MATEEBA-KHALID?tab=followers">
+  <img src="https://img.shields.io/github/followers/MATEEBA-KHALID?label=THE%20COMMUNITY&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=211728&color=EF93C4" alt="GitHub followers">
 </a>
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=apachespark&logoColor=FFFFFF&labelColor=211728&color=FF69B4" alt="GitHub stars">
+<a href="https://github.com/MATEEBA-KHALID?tab=repositories">
+  <img src="https://img.shields.io/github/stars/MATEEBA-KHALID?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=apachespark&logoColor=FFFFFF&labelColor=211728&color=FF69B4" alt="GitHub stars">
 </a>
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=9E477B&label=VISITORS" alt="Profile visitors">
+<img src="https://komarev.com/ghpvc/?username=MATEEBA-KHALID&style=for-the-badge&color=9E477B&label=VISITORS" alt="Profile visitors">
 
 <br><br>
 
@@ -78,19 +78,19 @@
 
 ### A little about my world...
 
-Hey! I'm **[YOUR_NAME]**, a Computer Science student who loves exploring the intersection of intelligence, technology, and creativity.
+Hey! I'm **Mateeba Khalid**, a Computer Science student who loves exploring the intersection of intelligence, technology, and creativity.
 
-I'm drawn to Artificial Intelligence because it challenges me to think beyond the obvious. From experimenting with machine learning to developing interactive applications, I enjoy transforming ideas into things people can actually use.
+I'm fascinated by the endless possibilities of technology and its power to transform the way we live, think, and create. From exploring Artificial Intelligence to building interactive applications, I'm driven by the desire to turn curiosity into innovation and ideas into solutions that make a meaningful difference.
 
 **Currently, I'm:**
 
-- 🎓 Pursuing **[YOUR_DEGREE]** at **[YOUR_UNIVERSITY]**.
-- 🤖 Exploring AI, machine learning, and computer vision.
+- 🎓 Pursuing **Bachelors of Science in Computer Science** at **COMSATS University Islamabad, Sahiwal Campus**.
+- ✨ Exploring everything that sparks curiosity, inspires innovation, and creates a meaningful impact on the world. ✨
 - 💻 Building projects that combine logic with creativity.
-- 🌱 Expanding my skills in Python, deep learning, and software development.
+- 🌱 Building diverse skills, embracing new technologies, and turning knowledge into solutions that make a difference
 - 🚀 Looking for opportunities to learn, collaborate, and grow.
 
-I believe being a developer isn't just about knowing languages. It's about asking better questions, staying curious, and having the courage to build something new.
+I believe great developers don't just write code; they challenge possibilities, question the ordinary, and turn bold ideas into meaningful innovations that shape a better future. 
 
     </td>
     <td width="35%" align="center" valign="middle">
@@ -99,7 +99,7 @@ I believe being a developer isn't just about knowing languages. It's about askin
 
 <br><br>
 
-**[YOUR_NAME]**
+**Mateeba Khalid**
 
 <em>Aspiring AI Engineer</em>
 
@@ -139,25 +139,25 @@ I believe being a developer isn't just about knowing languages. It's about askin
 
 <br><br>
 
-<a href="https://github.com/[YOUR_USERNAME]/[PROJECT_REPO_1]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_REPO_1]&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=211728" width="48%" alt="Featured project one">
+<a href="https://github.com/MATEEBA-KHALID/AIR-CANVAS---Gesture-Controlled-Virtual-Drawing-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MATEEBA-KHALID&repo=AIR-CANVAS---Gesture-Controlled-Virtual-Drawing-System&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=211728" width="48%" alt="Featured project one">
 </a>
-<a href="https://github.com/[YOUR_USERNAME]/[PROJECT_REPO_2]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_REPO_2]&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=211728" width="48%" alt="Featured project two">
+<a href="https://github.com/MATEEBA-KHALID/Clarity-A-Duplicate-Photo-Finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MATEEBA-KHALID&repo=Clarity-A-Duplicate-Photo-Finder&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=211728" width="48%" alt="Featured project two">
 </a>
 
 <br>
 
-<a href="https://github.com/[YOUR_USERNAME]/[PROJECT_REPO_3]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_REPO_3]&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=211728" width="48%" alt="Featured project three">
+<a href="https://github.com/MATEEBA-KHALID/Flower-Wand">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MATEEBA-KHALID&repo=Flower-Wand&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=211728" width="48%" alt="Featured project three">
 </a>
-<a href="https://github.com/[YOUR_USERNAME]/[PROJECT_REPO_4]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[PROJECT_REPO_4]&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=211728" width="48%" alt="Featured project four">
+<a href="https://github.com/MATEEBA-KHALID/Cipher-Drive-USB-Security-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MATEEBA-KHALID&repo=Cipher-Drive-USB-Security-System&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=211728" width="48%" alt="Featured project four">
 </a>
 
 <br><br>
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
+<a href="https://github.com/MATEEBA-KHALID?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE%20MY%20UNIVERSE-%E2%86%97-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=211728" alt="Explore all repositories">
 </a>
 
@@ -167,37 +167,58 @@ I believe being a developer isn't just about knowing languages. It's about askin
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
+
 <div align="center">
 
-## ✧ MY CREATIVE TOOLKIT ✧
+## ✦ MY CREATIVE TOOLKIT ✦
 
-<em>Different tools. Endless possibilities.</em>
-
-<br><br>
-
-### 01 / LANGUAGES I SPEAK
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,mysql&theme=dark&perline=7" alt="Python, C++, Java, HTML, CSS, JavaScript and MySQL">
-
-<br><br>
-
-### 02 / THE INTELLIGENCE LAB
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6" alt="TensorFlow, PyTorch and OpenCV">
-
-<br><br>
-
-### 03 / WHERE THE MAGIC HAPPENS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,linux&theme=dark&perline=6" alt="Git, GitHub, VS Code, Android Studio, Figma and Linux">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CURRENTLY%20LEVELING%20UP-AI%20%26%20SOFTWARE%20DEVELOPMENT-EF93C4?style=for-the-badge&labelColor=211728" alt="Currently learning AI and software development">
+<em>Exploring technologies. Building ideas. Creating meaningful impact.</em>
 
 <br>
 
-<sub>My toolkit keeps evolving — just like me.</sub>
+### 01 · PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts&theme=dark" alt="Python, C++, Java, JavaScript and TypeScript">
+
+### 02 · FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Bootstrap and Tailwind CSS">
+
+### 03 · BACKEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django&theme=dark" alt="Node.js, Express, Flask and Django">
+
+### 04 · DATABASES & DATA MANAGEMENT
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="MySQL, MongoDB and Firebase">
+
+### 05 · ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch and OpenCV">
+
+<br>
+
+<img src="https://img.shields.io/badge/ALSO%20EXPLORING-NumPy%20%7C%20Pandas%20%7C%20Scikit--learn%20%7C%20MediaPipe-EF93C4?style=flat-square&labelColor=211728" alt="Additional AI and data science tools">
+
+### 06 · MOBILE & CROSS-PLATFORM DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Flutter, Dart and Android Studio">
+
+### 07 · TOOLS, DESIGN & VERSION CONTROL
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" alt="Git, GitHub, VS Code, Figma, Postman and Linux">
+
+### 08 · DEPLOYMENT & CLOUD
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,docker&theme=dark" alt="Vercel, Netlify, GitHub Actions and Docker">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MINDSET-LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20INNOVATE-FF69B4?style=for-the-badge&labelColor=211728" alt="Learn, build and innovate">
+
+<br>
+
+<em>My skills are always evolving, and so are the possibilities.</em>
 
 </div>
 
@@ -213,21 +234,21 @@ I believe being a developer isn't just about knowing languages. It's about askin
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&bg_color=211728&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=FF69B4&include_all_commits=true&rank_icon=percentile" width="49%" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=MATEEBA-KHALID&show_icons=true&hide_border=true&bg_color=211728&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=FF69B4&include_all_commits=true&rank_icon=percentile" width="49%" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=donut&hide_border=true&bg_color=211728&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="41%" alt="Most used programming languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATEEBA-KHALID&layout=donut&hide_border=true&bg_color=211728&title_color=EF93C4&text_color=F8BBD0&langs_count=8" width="41%" alt="Most used programming languages">
 
 <br><br>
 
 ### ♡ CONSISTENCY OVER PERFECTION ♡
 
-<img src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=transparent&hide_border=true&background=211728&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=E6CDE0&stroke=70415F" width="85%" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=MATEEBA-KHALID&theme=transparent&hide_border=true&background=211728&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=EF93C4&dates=E6CDE0&stroke=70415F" width="85%" alt="GitHub contribution streak">
 
 <br><br>
 
 ### ✧ EVERY CONTRIBUTION TELLS A STORY ✧
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=211728&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=70395F&hide_border=true&radius=12&custom_title=My%20Coding%20Journey" width="100%" alt="GitHub activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MATEEBA-KHALID&bg_color=211728&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=70395F&hide_border=true&radius=12&custom_title=My%20Coding%20Journey" width="100%" alt="GitHub activity graph">
 
 <br><br>
 
@@ -248,9 +269,9 @@ I believe being a developer isn't just about knowing languages. It's about askin
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MATEEBA-KHALID/MATEEBA-KHALID/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MATEEBA-KHALID/MATEEBA-KHALID/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/MATEEBA-KHALID/MATEEBA-KHALID/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake">
 </picture>
 
 </div>
@@ -326,29 +347,17 @@ can vary. The output branch is separate from your main branch.
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/">
+<a href="https://www.linkedin.com/in/Mateeba Khalid/">
   <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=211728" alt="LinkedIn">
 </a>
 
-<a href="https://x.com/[YOUR_X_USERNAME]">
-  <img src="https://img.shields.io/badge/X-Follow%20Along-F8BBD0?style=for-the-badge&logo=x&logoColor=211728&labelColor=FFFFFF" alt="X">
-</a>
 
-<a href="https://www.instagram.com/[YOUR_INSTAGRAM_USERNAME]/">
+<a href="https://www.instagram.com/hers_gram05/">
   <img src="https://img.shields.io/badge/INSTAGRAM-My%20Little%20Corner-FF69B4?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=211728" alt="Instagram">
 </a>
 
-<br>
 
-<a href="https://www.tiktok.com/@[YOUR_TIKTOK_USERNAME]">
-  <img src="https://img.shields.io/badge/TIKTOK-Creative%20Side-EF93C4?style=for-the-badge&logo=tiktok&logoColor=FFFFFF&labelColor=211728" alt="TikTok">
-</a>
-
-<a href="https://www.youtube.com/@[YOUR_YOUTUBE_USERNAME]">
-  <img src="https://img.shields.io/badge/YOUTUBE-Tune%20In-FF69B4?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=211728" alt="YouTube">
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:mateebakhalid623@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-Say%20Hello-F8BBD0?style=for-the-badge&logo=gmail&logoColor=211728&labelColor=FFFFFF" alt="Email">
 </a>
 
@@ -356,7 +365,7 @@ can vary. The output branch is separate from your main branch.
 
 ### ♡ MY INBOX IS OPEN FOR
 
-`Collaborations` &nbsp; `Internships` &nbsp; `AI Projects` &nbsp; `New Ideas`
+`Collaborations` &nbsp; `Internships` &nbsp; `AI Powered Projects` &nbsp; `New Ideas`
 
 </div>
 
@@ -389,7 +398,7 @@ and becoming a little better than I was yesterday.
 
 <br><br>
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
+<a href="https://github.com/MATEEBA-Khalid?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE%20%7C%20CREATE%20%7C%20REPEAT-FF69B4?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=211728" alt="Explore, create, repeat">
 </a>
 
