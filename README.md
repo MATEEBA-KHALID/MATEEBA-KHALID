@@ -22,9 +22,7 @@
 <a href="https://github.com/MATEEBA-KHALID?tab=repositories">
   <img src="https://img.shields.io/github/stars/MATEEBA-KHALID?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=211728&color=FF69B4" alt="GitHub stars">
 </a>
-<a href="https://github.com/MATEEBA-KHALID">
-  <img src="https://komarev.com/ghpvc/?username=MATEEBA-KHALID&style=for-the-badge&color=9E477B&label=PROFILE+VIEWS" alt="Profile views">
-</a>
+
 
 <br><br>
 
@@ -163,7 +161,7 @@ I believe great developers don't just write code; they challenge possibilities, 
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch and OpenCV">
 
-<img src="https://img.shields.io/badge/ALSO%20EXPLORING-NumPy%20%7C%20Pandas%20%7C%20Scikit--learn%20%7C%20MediaPipe-EF93C4?style=flat-square&labelColor=211728" alt="Additional AI and data science tools">
+
 
 ### 06 · MOBILE DEVELOPMENT
 
@@ -208,7 +206,6 @@ I believe great developers don't just write code; they challenge possibilities, 
 
 ### ✧ EVERY CONTRIBUTION TELLS A STORY ✧
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MATEEBA-KHALID&bg_color=211728&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&radius=12&custom_title=My%20Coding%20Journey" width="100%" alt="GitHub activity graph">
 
 <br>
 
